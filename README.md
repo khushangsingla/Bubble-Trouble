@@ -26,4 +26,4 @@ After that, in the repository, run the following command:
 
 
 ### Video:
-[Click here](https://drive.google.com/file/d/14HeVN4QnmGEqW4Y7hv8ziNCrSadCJdvV/view?usp=sharing) to see the video reperesenting various features of the game.
+[Click here](https://github.com/khushangsingla/Bubble-Trouble/raw/main/Demo%20Video) to see the video reperesenting various features of the game.
