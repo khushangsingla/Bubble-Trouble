@@ -12,7 +12,11 @@ A game made using simplecpp graphics in C++
 - Larger bubbles when hit by bullet are divided into two smaller bubbles moving in opposite directions.
 - There is a timer, score counter, and health display. If timer goes off, the game ends.
 
-## Compilation Instruction
+## Playing the game
+
+The repository contains `ELF 64-bit LSB pie executable` for the compiled game. [Click here](https://github.com/khushangsingla/Bubble-Trouble/raw/main/Bubble_Trouble) to download it.
+
+### Compilation Instruction
 
 Download simplecpp and build it using this [link](https://www.cse.iitb.ac.in/~ranade/simplecpp/). 
 After that, in the repository, run the following command:
